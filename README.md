@@ -13,3 +13,5 @@ GetCountryByCode(countryCode) filters the country array according to the given c
 Anyway, all functions in the file are very simple JavaScript Function and most of them contains ES6 filter function and some of them contains map() function.
 
 This file can be improved and whenever I improve it, I will update the file.
+
+This file has been created for one of projects and It is used for validation purposes in the project
